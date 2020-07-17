@@ -22,8 +22,8 @@ It is a retail situation in which cashier and manager operate together to sell t
 
 ### Tools 
 
-![eclipse](https://img.shields.io/badge/Technology-eclipse-blue) 
-![equinox](https://img.shields.io/badge/Technology-eclipseequinox-blue) 
+![eclipse](https://img.shields.io/badge/Tool-eclipse-blue) 
+![equinox](https://img.shields.io/badge/Tool-eclipseequinox-blue) 
 
 
 
